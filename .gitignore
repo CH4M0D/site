@@ -25,3 +25,4 @@ pnpm-debug.log*
 
 # CMS trash folder
 .cms_trash/
+.cms_config.json
